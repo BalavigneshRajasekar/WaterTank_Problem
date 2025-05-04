@@ -1,3 +1,18 @@
-.h1 {
-  color: red;
+table {
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+td,
+th {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: center;
+}
+.block {
+  background-color: #555;
+  color: white;
+}
+.water {
+  background-color: #00f2ff;
+  color: white;
 }
